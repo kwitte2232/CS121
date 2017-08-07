@@ -1,6 +1,6 @@
 # CS121 at the University of Chicago
-Class taken in Autumn 2015
-Course Website: https://www.classes.cs.uchicago.edu/archive/2015/fall/12100-1/
+Class taken in Autumn 2015  
+Course Website: https://www.classes.cs.uchicago.edu/archive/2015/fall/12100-1/  
 
 Course Description:
 CMSC 12100. Computer Science with Applications I. 100 Units.
